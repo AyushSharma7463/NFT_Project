@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.6"
+  },
+  "name": "nft_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hardhat.config.js",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
