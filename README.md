@@ -1,6 +1,9 @@
+-> Title :-  NFT Ticketing Platform with Anti-Scalping Logic
+
+
 ->Introduction
 
-The traditional ticketing system suffers from major issues such as ticket fraud, duplication, and unfair resale practices (scalping). 
+The NFT Ticketing Platform with Anti-Scalping Logic suffers from major issues such as ticket fraud, duplication, and unfair resale practices (scalping). 
 Centralized platforms often lack transparency and give limited control to event organizers over secondary market pricing.
 This project introduces a decentralized NFT-based ticketing system built on blockchain technology. 
 By leveraging smart contracts, each ticket is minted as a unique NFT, ensuring authenticity, traceability, and secure ownership transfer without relying on intermediaries.
