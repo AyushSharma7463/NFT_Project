@@ -1,4 +1,4 @@
--> Title :-  NFT Ticketing Platform with Anti-Scalping Logic 👍🏻
+-> Title :-  NFT Ticketing Platform with Anti-Scalping Logic 
 
 
 ->Introduction
